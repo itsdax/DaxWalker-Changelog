@@ -1,6 +1,16 @@
 # Daxwalker Changelog
 
 ## 3.10.0
+07/04/2023
+    <li>Added support for Pirate's Cove and Lunar Island
+    <li>Added most of Ape Atoll 
+    <li>Added Port Khazard and Phasmatys bank
+    <li>Added Guardians of the Rift connections
+    <li>Added Crystal pickaxe support
+    <li>Added Paterdomus temple upper floors
+    <li>Added numerous Shayzien upstairs houses
+    <li>Fixed collision in several places: Hosidius, Dwarven Mines, Crandor dungeon, Crabclaw Island
+
 
 28/02/2023
     <li>Added paths to Water obelisk
